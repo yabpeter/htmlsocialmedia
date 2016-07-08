@@ -1,0 +1,23 @@
+HTML PARA FACEBOOK
+
+<head>
+  <meta property="og:type" content="article">
+  <meta property="og:title" content="Título del post">
+  <meta property="og:image" content="http://pagina.com/img/imagen.jpg">
+  <meta property="og:description" content="Descripción de la página">
+</head>
+
+
+
+HTML PARA TWITTER
+
+<head>
+  <meta property="twitter:card" content="summary_large_image">
+  <meta property="twitter:creator" content="@USUARIO">
+  <meta property="twitter:title" content="Título">
+  <meta property="twitter:description" content="Descripción">
+  <meta property="twitter:image:src" content="URL_img.jpg">
+</head>
+
+
+
